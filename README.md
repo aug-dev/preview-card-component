@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Pedro-Celeste/preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Preview Website](https://preview-card-component-sigma.vercel.app/)
 
 ## My process
 

@@ -58,8 +58,3 @@ Here's the code snippet:
 ### Continued development
 
 I need some kind of **system** in which I can organize the different font sizes I need for a project, instead of having seemingly random numbers all accros the place.
-
-## Author
-
-- Twitter - [@oPedroCeleste](https://www.twitter.com/oPedroCeleste)
-- Frontend Mentor - [@Pedro-Celeste](https://www.frontendmentor.io/profile/Pedro-Celeste)
